@@ -6,3 +6,4 @@ Design of the Molecular Visualization class at Structural Bioinformatics course 
 
 [Practice session tutorial](https://kluwik.notion.site/Class-07-Molecular-Visualization-8371138f11464305a5dd0f360d2a33d9)
 
+[VIZBI 2024 Poster](https://www.vizbi.org/Posters/2024/vC03?email=Marina.Pak@skoltech.ru)
